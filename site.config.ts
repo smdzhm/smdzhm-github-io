@@ -3,9 +3,9 @@ import { defineSiteConfig } from 'valaxy'
 export default defineSiteConfig({
   url: 'https://valaxy.site/',
   lang: 'zh-CN',
-  title: 'Valaxy Theme Yun',
+  title: 'RainbowSky的博客|RainbowSky\'s blog',
   author: {
-    name: 'RainbowSky的博客|RainbowSky\'s blog',
+    name: 'RainbowSky',
     avatar: 'https://i.postimg.cc/65xP2FCQ/20250111162708.jpg',
     status:
     {
