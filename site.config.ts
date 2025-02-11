@@ -76,7 +76,9 @@ export default defineSiteConfig({
 
   search: {
     enable: false,
+    type: 'engine',
   },
+
 
   sponsor: {
     enable: true,
