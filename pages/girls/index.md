@@ -15,6 +15,10 @@ links:
     name: 一只有梦想的咸鱼
     desc: b站知名up主/咸鱼梦想家
     color: "#6058d9"
+  - avatar: https://i.postimg.cc/zBKfwz53/5-FB270-B7-E9-DF80-BA63-F3-B62-A2802-A50-C.jpg
+    name: 名字还在想的墨森gs
+    desc: 墨森gs
+    color: "#6058d9"
 # 也可以是一个 JSON 链接
 # links: https://friends.yunyoujun.cn/links.json
 random: true
