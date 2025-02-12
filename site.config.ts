@@ -66,6 +66,18 @@ export default defineSiteConfig({
       color: '#8E71C1',
     },
     {
+      name: 'discord',
+      link: 'https://discord.gg/97RPrfs5U6',
+      icon: 'i-line-md-discord',
+      color: '#7B68EE',
+    },
+    {
+      name: 'telegram频道',
+      link: 'https://t.me/rainbowsky1145',
+      icon: 'i-line-md-telegram',
+      color: '#0084FF',
+    },
+    {
       name: '微信支付',
       link: 'https://i.postimg.cc/52xkpv7d/E81-F46-EFC219-CF13-CD737-F6-DD7438514.jpg',
       icon: 'i-ri-wechat-pay-line',
@@ -73,11 +85,11 @@ export default defineSiteConfig({
     },
   ],
 
-
   search: {
-    enable: false,
-    type: 'engine',
+    enable: true,
+    type: 'fuse',
   },
+
 
 
   sponsor: {
@@ -92,4 +104,4 @@ export default defineSiteConfig({
       },
     ],
   },
-})
+  })

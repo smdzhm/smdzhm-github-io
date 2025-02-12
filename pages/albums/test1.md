@@ -29,5 +29,22 @@ photos:
 - caption: 大明湖入口awa
   src: https://i.postimg.cc/0QbCc9sq/1739355953627.jpg
   desc: 8
-
+- caption: 船
+  src: https://i.postimg.cc/g0ZS4k7Q/1739377623856.jpg
+  desc: 9
+- caption: 锦鲤x2
+  src: https://i.postimg.cc/V6P7hPQ6/1739377623862.jpg
+  desc: 10
+- caption: 鸽子（咕咕咕
+  src: https://i.postimg.cc/Qtg6GYhq/1739377623866.jpg
+  desc: 11
+- caption: 2025年大年30的落日
+  src: https://i.postimg.cc/4Nf0ZGKH/1739377623872.jpg
+  desc: 12
+- caption: 落日x2
+  src: https://i.postimg.cc/3JtcxqpS/1739377623875.jpg
+  desc: 13
+- caption: 落日x3
+  src: 
+  desc: 14
 ---
