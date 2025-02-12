@@ -1,5 +1,8 @@
 import type { UserThemeConfig } from 'valaxy-theme-yun'
 import { defineValaxyConfig } from 'valaxy'
+import { addonLightGallery } from 'valaxy-addon-lightgallery'
+
+
 
 // add icons what you will need
 const safelist = [
@@ -24,15 +27,22 @@ export default defineValaxyConfig<UserThemeConfig>({
       {
         name: 'My Friend',
         url: '/links/',
-        icon: 'i-ri-genderless-line',
+        icon: 'i-line-md-account',
         color: 'dodgerblue',
+      },
+      {
+        name: '相册集',
+        url: '/albums/',
+        icon: 'i-line-md-image-filled',
+        color: 'black',
       },
       {
         name: 'My Love',
         url: '/girls/',
-        icon: 'i-ri-women-line',
+        icon: 'i-line-md-heart-filled',
         color: 'hotpink',
       },
+
     ],
 
     footer: {
@@ -45,4 +55,7 @@ export default defineValaxyConfig<UserThemeConfig>({
   },
 
   unocss: { safelist },
+  addons: [
+    addonLightGallery(),
+  ],
 })

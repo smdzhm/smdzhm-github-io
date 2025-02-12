@@ -23,6 +23,8 @@ declare module 'vue-router/auto-routes' {
     '/404': RouteRecordInfo<'/404', '/404', Record<never, never>, Record<never, never>>,
     '/about/': RouteRecordInfo<'/about/', '/about', Record<never, never>, Record<never, never>>,
     '/about/site': RouteRecordInfo<'/about/site', '/about/site', Record<never, never>, Record<never, never>>,
+    '/albums/': RouteRecordInfo<'/albums/', '/albums', Record<never, never>, Record<never, never>>,
+    '/albums/test1': RouteRecordInfo<'/albums/test1', '/albums/test1', Record<never, never>, Record<never, never>>,
     '/archives/': RouteRecordInfo<'/archives/', '/archives', Record<never, never>, Record<never, never>>,
     '/categories/': RouteRecordInfo<'/categories/', '/categories', Record<never, never>, Record<never, never>>,
     '/girls/': RouteRecordInfo<'/girls/', '/girls', Record<never, never>, Record<never, never>>,
@@ -32,6 +34,7 @@ declare module 'vue-router/auto-routes' {
     '/posts/Hexo vs Valaxy：静态博客框架的现代之争': RouteRecordInfo<'/posts/Hexo vs Valaxy：静态博客框架的现代之争', '/posts/Hexo vs Valaxy：静态博客框架的现代之争', Record<never, never>, Record<never, never>>,
     '/posts/VLC Media Player一款开源的多媒体播放器': RouteRecordInfo<'/posts/VLC Media Player一款开源的多媒体播放器', '/posts/VLC Media Player一款开源的多媒体播放器', Record<never, never>, Record<never, never>>,
     '/posts/免费获得500个比特币': RouteRecordInfo<'/posts/免费获得500个比特币', '/posts/免费获得500个比特币', Record<never, never>, Record<never, never>>,
+    '/posts/流行的Markdown编辑器推荐': RouteRecordInfo<'/posts/流行的Markdown编辑器推荐', '/posts/流行的Markdown编辑器推荐', Record<never, never>, Record<never, never>>,
     '/tags/': RouteRecordInfo<'/tags/', '/tags', Record<never, never>, Record<never, never>>,
   }
 }
