@@ -42,6 +42,12 @@ export default defineSiteConfig({
       color: '#C20C0C',
     },
     {
+      name: 'spotify',
+      link: 'https://open.spotify.com/playlist/11cW0akD5UGs8OGkj3uo5G?si=Pgmca38gRUeQrzTAOjLrTw',
+      icon: 'i-line-md-spotify-filled',
+      color: '#2DC100',
+    },
+    {
       name: '知乎',
       link: 'https://www.zhihu.com/people/cnxe0k',
       icon: 'i-ri-zhihu-line',
