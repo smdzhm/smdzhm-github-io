@@ -30,6 +30,7 @@ declare module 'vue-router/auto-routes' {
     '/categories/': RouteRecordInfo<'/categories/', '/categories', Record<never, never>, Record<never, never>>,
     '/girls/': RouteRecordInfo<'/girls/', '/girls', Record<never, never>, Record<never, never>>,
     '/links/': RouteRecordInfo<'/links/', '/links', Record<never, never>, Record<never, never>>,
+    '/music/': RouteRecordInfo<'/music/', '/music', Record<never, never>, Record<never, never>>,
     '/page/[page]': RouteRecordInfo<'/page/[page]', '/page/:page', { page: ParamValue<true> }, { page: ParamValue<false> }>,
     '/posts/': RouteRecordInfo<'/posts/', '/posts', Record<never, never>, Record<never, never>>,
     '/posts/Blender是一款免费开源、功能全面的 3D 创作套件': RouteRecordInfo<'/posts/Blender是一款免费开源、功能全面的 3D 创作套件', '/posts/Blender是一款免费开源、功能全面的 3D 创作套件', Record<never, never>, Record<never, never>>,

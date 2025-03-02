@@ -42,7 +42,12 @@ export default defineValaxyConfig<UserThemeConfig>({
         icon: 'i-line-md-heart-filled',
         color: 'hotpink',
       },
-
+      {
+        name: 'Music',
+        url: '/music/',
+        icon: 'i-line-md-folder-music-twotone',
+        color: 'red',
+      },
     ],
 
     footer: {
