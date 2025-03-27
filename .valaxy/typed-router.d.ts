@@ -34,6 +34,7 @@ declare module 'vue-router/auto-routes' {
     '/page/[page]': RouteRecordInfo<'/page/[page]', '/page/:page', { page: ParamValue<true> }, { page: ParamValue<false> }>,
     '/posts/': RouteRecordInfo<'/posts/', '/posts', Record<never, never>, Record<never, never>>,
     '/posts/Blender是一款免费开源、功能全面的 3D 创作套件': RouteRecordInfo<'/posts/Blender是一款免费开源、功能全面的 3D 创作套件', '/posts/Blender是一款免费开源、功能全面的 3D 创作套件', Record<never, never>, Record<never, never>>,
+    '/posts/expose王嘉艺和万紫玉': RouteRecordInfo<'/posts/expose王嘉艺和万紫玉', '/posts/expose王嘉艺和万紫玉', Record<never, never>, Record<never, never>>,
     '/posts/Hexo vs Valaxy：静态博客框架的现代之争': RouteRecordInfo<'/posts/Hexo vs Valaxy：静态博客框架的现代之争', '/posts/Hexo vs Valaxy：静态博客框架的现代之争', Record<never, never>, Record<never, never>>,
     '/posts/LibreOffice一款功能强大且完全免费的开源办公软件套件': RouteRecordInfo<'/posts/LibreOffice一款功能强大且完全免费的开源办公软件套件', '/posts/LibreOffice一款功能强大且完全免费的开源办公软件套件', Record<never, never>, Record<never, never>>,
     '/posts/Motrix 是一款开源、跨平台的下载工具': RouteRecordInfo<'/posts/Motrix 是一款开源、跨平台的下载工具', '/posts/Motrix 是一款开源、跨平台的下载工具', Record<never, never>, Record<never, never>>,
