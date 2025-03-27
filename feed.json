@@ -1,0 +1,122 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "RainbowSky的博客|RainbowSky's blog",
+    "home_page_url": "https://valaxy.site/",
+    "feed_url": "https://valaxy.site/feed.json",
+    "description": "RainbowSkyのblog.",
+    "icon": "https://i.postimg.cc/65xP2FCQ/20250111162708.jpg",
+    "author": {
+        "name": "RainbowSky",
+        "url": "https://valaxy.site"
+    },
+    "items": [
+        {
+            "id": "",
+            "content_html": "<p>---<strong>关于优化班级管理机制的若干建议</strong></p>\n<p>尊敬的王老师：</p>\n<p>您好！</p>\n<p>作为班级的一份子，我观察到近期部分班干部在执行纪律时存在标准不一致的情况，特向您反馈相关现象，并提出改进建议。</p>\n<p>**一、</p>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/expose王嘉艺和万紫玉\" target=\"_blank\">https://valaxy.site/posts/expose王嘉艺和万紫玉</a> 阅读全文。</p>",
+            "url": "https://valaxy.site/posts/expose王嘉艺和万紫玉",
+            "title": "expose王嘉艺和万紫玉",
+            "date_modified": "2025-03-27T00:00:00.000Z",
+            "date_published": "2025-03-27T00:00:00.000Z",
+            "author": {
+                "name": "RainbowSky",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<p><strong>LibreOffice</strong>，这是一款功能强大且完全免费的开源办公软件套件，适用于文档处理、表格计算、演示文稿制作等多种办公场景。以下是我喜欢它的原因：</p>\n<hr>\n<h3>📌 **Libre</h3>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/LibreOffice一款功能强大且完全免费的开源办公软件套件\" target=\"_blank\">https://valaxy.site/posts/LibreOffice一款功能强大且完全免费的开源办公软件套件</a> 阅读全文。</p>",
+            "url": "https://valaxy.site/posts/LibreOffice一款功能强大且完全免费的开源办公软件套件",
+            "title": "LibreOffice一款功能强大且完全免费的开源办公软件套件",
+            "date_modified": "2025-02-16T00:00:00.000Z",
+            "date_published": "2025-02-16T00:00:00.000Z",
+            "author": {
+                "name": "RainbowSky",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<p><strong>Visual Studio Code（VS Code）</strong> 是微软开发的一款免费、开源、跨平台的代码编辑器，凭借其轻量、高扩展性和强大的功能，成为开发者社区中最受欢迎的工具之一。以下是我推荐它的</p>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/VS Code微软开发的一款免费、开源、跨平台的代码编辑器\" target=\"_blank\">https://valaxy.site/posts/VS Code微软开发的一款免费、开源、跨平台的代码编辑器</a> 阅读全文。</p>",
+            "url": "https://valaxy.site/posts/VS Code微软开发的一款免费、开源、跨平台的代码编辑器",
+            "title": "VS Code微软开发的一款免费、开源、跨平台的代码编辑器",
+            "date_modified": "2025-02-15T00:00:00.000Z",
+            "date_published": "2025-02-15T00:00:00.000Z",
+            "author": {
+                "name": "RainbowSky",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<h3>Motrix 简介</h3>\n<p><strong>Motrix</strong> 是一款开源、跨平台的下载工具，支持多种协议（HTTP、FTP、BT、磁力链接等）。它以简洁的界面、无广告和隐私保护为特色，适合需要轻量级且注重安全</p>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/Motrix 是一款开源、跨平台的下载工具\" target=\"_blank\">https://valaxy.site/posts/Motrix 是一款开源、跨平台的下载工具</a> 阅读全文。</p>",
+            "url": "https://valaxy.site/posts/Motrix 是一款开源、跨平台的下载工具",
+            "title": "Motrix 是一款开源、跨平台的下载工具",
+            "date_modified": "2025-02-14T00:00:00.000Z",
+            "date_published": "2025-02-14T00:00:00.000Z",
+            "author": {
+                "name": "RainbowSky",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<p>以下是几款流行的Markdown编辑器推荐，并附上理由和对比：</p>\n<h3>1. <strong>Typora</strong></h3>\n<ul>\n<li><strong>推荐理由</strong>:\n<ul>\n<li><strong>所见即所得</strong>：Typora 提供实时预览功能，编辑时</li>\n</ul>\n</li>\n</ul>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/流行的Markdown编辑器推荐\" target=\"_blank\">https://valaxy.site/posts/流行的Markdown编辑器推荐</a> 阅读全文。</p>",
+            "url": "https://valaxy.site/posts/流行的Markdown编辑器推荐",
+            "title": "流行的Markdown编辑器推荐",
+            "date_modified": "2025-02-12T00:00:00.000Z",
+            "date_published": "2025-02-12T00:00:00.000Z",
+            "author": {
+                "name": "RainbowSky",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<hr>\n<p>在静态博客生成器的世界里，Hexo 以其成熟稳定的特性长期占据主流地位，而 Valaxy 作为新兴框架凭借前沿技术栈和轻量化设计逐渐崭露头角。本文将从多个维度对比两者的差异，帮助开发者选择</p>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/Hexo vs Valaxy：静态博客框架的现代之争\" target=\"_blank\">https://valaxy.site/posts/Hexo vs Valaxy：静态博客框架的现代之争</a> 阅读全文。</p>",
+            "url": "https://valaxy.site/posts/Hexo vs Valaxy：静态博客框架的现代之争",
+            "title": "Hexo vs Valaxy：静态博客框架的现代之争",
+            "date_modified": "2025-02-11T00:00:00.000Z",
+            "date_published": "2025-02-11T00:00:00.000Z",
+            "author": {
+                "name": "RainbowSky",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<p><strong>1.功能强大且免费开源</strong><br>\nVLC Media Player 是一款开源的多媒体播放器，支持几乎所有的音频和视频格式（如 MP4、AVI、MKV、FLV、MP3 等），无需额外安装编解码器。它完</p>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/VLC Media Player一款开源的多媒体播放器\" target=\"_blank\">https://valaxy.site/posts/VLC Media Player一款开源的多媒体播放器</a> 阅读全文。</p>",
+            "url": "https://valaxy.site/posts/VLC Media Player一款开源的多媒体播放器",
+            "title": "VLC Media Player一款开源的多媒体播放器",
+            "date_modified": "2025-02-11T00:00:00.000Z",
+            "date_published": "2025-02-11T00:00:00.000Z",
+            "author": {
+                "name": "RainbowSky",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<p><strong>Blender</strong> 是一款免费开源、功能全面的 <strong>3D 创作套件</strong>，涵盖建模、动画、渲染、视频剪辑、游戏开发等全流程，被广泛应用于影视、游戏、工业设计等领域。以下是它的详细介绍：</p>\n<hr>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/Blender是一款免费开源、功能全面的 3D 创作套件\" target=\"_blank\">https://valaxy.site/posts/Blender是一款免费开源、功能全面的 3D 创作套件</a> 阅读全文。</p>",
+            "url": "https://valaxy.site/posts/Blender是一款免费开源、功能全面的 3D 创作套件",
+            "title": "Blender是一款免费开源、功能全面的 3D 创作套件",
+            "date_modified": "2025-02-09T00:00:00.000Z",
+            "date_published": "2025-02-09T00:00:00.000Z",
+            "author": {
+                "name": "RainbowSky",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<p>1.先前往官网下载Bitcoin Core</p>\n<p>下载地址：<a href=\"https://bitcoin.org/zh_CN/download\">下载 - 比特币</a></p>\n<p>2.前往这个网站获取钱包和密码</p>\n<br/><p>访问 <a href=\"https://valaxy.site/posts/免费获得500个比特币\" target=\"_blank\">https://valaxy.site/posts/免费获得500个比特币</a> 阅读全文。</p>",
+            "url": "https://valaxy.site/posts/免费获得500个比特币",
+            "title": "免费获得500个比特币!",
+            "date_modified": "2025-02-09T00:00:00.000Z",
+            "date_published": "2025-02-09T00:00:00.000Z",
+            "author": {
+                "name": "RainbowSky",
+                "url": "https://valaxy.site"
+            }
+        }
+    ]
+}
